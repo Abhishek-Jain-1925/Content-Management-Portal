@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<AppSettings>
+    <PaymentCharges>
+        <user>500</user>
+        <valuer>300</valuer>
+    </PaymentCharges>
+</AppSettings>
