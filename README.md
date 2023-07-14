@@ -98,7 +98,7 @@ This project is licensed under the [APACHE License](LICENSE).
 
 - Mr.Abhishek Sachin Dhondalkar (Fergusson College, Pune.)
 - Email: jainabhishek1925@gmail.com
-- LinkedIn: [Abhishek Dhondalkar]([https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/abhishek-dhondalkar-7ab14220b))
+- LinkedIn: [Abhishek Dhondalkar](https://www.linkedin.com/in/janedoe/](https://www.linkedin.com/in/abhishek-dhondalkar-7ab14220b))
 
 ---
 
