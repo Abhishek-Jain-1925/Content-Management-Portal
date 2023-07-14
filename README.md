@@ -27,7 +27,7 @@
 Follow the steps below to set up the Land Documents Management WebApp:
 
 1. Clone the repository to your local machine.
->git clone https://github.com/your-username/land-documents-management.git
+>git clone https://github.com/Abhishek-Jain-1925/Content-Management-Portal.git
 
 
 2. Create a virtual environment and activate it.
